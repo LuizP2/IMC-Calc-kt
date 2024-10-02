@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="altura_em_metros">Altura em metros</string>
+    <string name="app_name">IMC Calc</string>
+    <string name="seu_imc_aparecer_aqui">Seu IMC aparecerá aqui</string>
+    <style name="Base.Theme.IMCCalc" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.IMCCalc" parent="Base.Theme.IMCCalc"/>
+</resources>

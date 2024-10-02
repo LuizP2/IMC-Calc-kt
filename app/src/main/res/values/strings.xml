@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC Calc</string>
+    <string name="altura_em_metros">Altura em metros</string>
+    <string name="seu_imc_aparecer_aqui">Seu IMC aparecerá aqui</string>
+</resources>
